@@ -58,7 +58,3 @@ python3 -m pip install faker
 ``` markdown
 python3 card_bot.py
 ```
-
-## Автор
-
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
